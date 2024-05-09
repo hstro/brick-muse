@@ -1,0 +1,20 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+   text-align:center;
+}
+.Seasons {
+    display: flex;
+    justify-content: center;
+}
+.Seasons-Btn {
+    padding: 3px;
+    padding-bottom: 15px;
+}
+
+.Reset-Button {
+    display: inline;
+    margin-top: 10px;
+}
+  
